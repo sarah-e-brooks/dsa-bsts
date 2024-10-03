@@ -1,0 +1,12 @@
+{
+  "name": "dsa-bsts-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary-search-tree.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
